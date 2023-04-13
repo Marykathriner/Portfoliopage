@@ -133,10 +133,6 @@ footer{
 
 @media only screen and ( max-width: 770px) {
 
-    body {
-        background-color:aquamarine;
-    }
-
     nav {
         height: 3.8em;
     }
@@ -169,10 +165,6 @@ footer{
 }
 
 @media only screen and ( max-width: 480px) {
-    body {
-        background-color: aliceblue;
-    }
-
 
     nav {
         height: 3.5em;
